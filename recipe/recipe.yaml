@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.0.1"
+  version: "2.0.2"
 
 package:
   name: pystac-ext-projection
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-projection/pystac_ext_projection-${{ version }}.tar.gz
-  sha256: 191bc730689ffeda7bdc94c5719f75ed951033f0b5e7a035a0af27213f33e085
+  sha256: 13d1445ebaf2d4a73ef0bf1b17b49678d81da2a51f89dc9f919e2554b14c6062
 
 build:
   number: 0
